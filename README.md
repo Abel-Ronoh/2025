@@ -1,6 +1,6 @@
 ✨This is my personal portfolio website showcasing my software development projects, technical skills, resume, and contact information.✨
 
-# Features.
+💪 # Features.
 
 ### Responsive design for mobile, tablet, and desktop
 
