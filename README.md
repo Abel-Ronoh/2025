@@ -1,4 +1,4 @@
-This is my personal portfolio website showcasing my software development projects, technical skills, resume, and contact information.
+✨This is my personal portfolio website showcasing my software development projects, technical skills, resume, and contact information.✨
 
 # Features.
 
