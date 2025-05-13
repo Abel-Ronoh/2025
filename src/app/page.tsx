@@ -3,9 +3,9 @@ import img from '../../public/emg.png'
 export default function Home() {
   return (
     <div className="bg-[#073737] flex flex-col items-center">
-      <div className="absolute h-[100vh] w-[300px] right-0 top-0 bg-[#FFF2E2]"></div>
-      <div className="bg-[#FDFDFD] w-11/12 mt-10 p-1 rounded-4xl z-10">
-      <div className='hidden lg:flex md:bg-red-300 md:w-full'>
+      <div className="absolute h-[100vh] w-[300px] right-0 top-0 bg-[#FFF2E2] "></div>
+      <div className="bg-[#FDFDFD] w-11/12 sm:mt-10  p-1 rounded-4xl z-10 md:mt-20">
+      <div className='sm:hidden md:flex md:w-full'>
         <h1>HOME</h1>
         <h1>SKILL</h1>
         <h1>EXPERIENCE</h1>
@@ -13,6 +13,7 @@ export default function Home() {
           GitHub
         </button>
       </div>
+      <div className='md:flex md:w-50px'>
       <div className="mt-12 md:mt-16 px-5">
         <h1 className="text-[14px] md:text-5xl font-bold mb-[7px] ">HELLO</h1>
         <h2 className="text-[32px] md:text-3xl font-light  mb-[7px]">I'm <span className="text-[#E1B890] font-semibold">Abel Ronoh.</span></h2>
@@ -38,6 +39,7 @@ export default function Home() {
           
           className="absolute  h-full object-contain z-20  right-0"
         />
+      </div>
       </div>
       </div>
   </div>
